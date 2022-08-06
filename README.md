@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working as **Freelancer**
 
-- 🌱 I’m currently learning **React, Typescript and pytorch**
+- 🌱 I’m currently learning **JS, React,  and python**
 
 - 👯 I’m looking to collaborate on **nonprofit projects**
 
