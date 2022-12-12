@@ -13,6 +13,96 @@
 
 - 📫 How to reach me **fedechavesf@gmail.com**
 
+<br>
+
+<h1 align="center">Projects</h1>
+
+
+<table bordercolor="#66b2b2">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">TeamTask App</h3>
+        <br />
+        <a target="_blank" href="https://github.com/fedechaves/teamtask_MVP">
+            <img src="https://ibb.co/yYsbHzw"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/fedechaves/teamtask_MVP">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="https://team-task-fedecha.onrender.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>JavaScript/EJS/MongoDB/Express/Node/Passport</strong> - A simple and collaborative fullstack Task managing App, built for Teams and Individuals to track and manage their tasks, keeping the workspace productive and organized.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">BooksTracker</h3>
+        <br />
+        <a target="_blank" href="https://github.com/fedechaves/BooksTracker">
+            <img src="https://github.com/fedechaves/BooksTracker/blob/e224015be30dcaf0b9573e29236578f4671e8b39/public/booktracker.JPG" alt="notes"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/fedechaves/BooksTracker" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="https://github.com/fedechaves/BooksTracker" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>JavaScript/MongoDB/Node.js/Express/HBS/CSS/Materialize/GoogleOauth</strong> - Track what you read and what you have in qeue</p>
+    </td>
+  </tr>
+  <tr>
+   <td width="50%" valign="top">
+      <h3 align="center">Privagram</h3>
+        <br />
+        <a target="_blank" href="https://github.com/fedechaves/MVP_Privagram">
+            <img src="https://user-images.githubusercontent.com/99290888/188750992-228bf34f-a0c5-4ccd-9302-0f8e0618f77e.png" alt="notes"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/fedechaves/MVP_Privagram" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="https://privagram.onrender.com/" target="_blank">
+    <img src="https://github.com/fedechaves/MVP_Privagram/blob/a5863059534f7b56a94861c1acbbe83f5c32886f/public/imgs/privagramHome.JPG"/>
+  </a>
+      </p>
+        <p><strong>JavaScript/MongoDB/Node.js/Express/Passport/CSS/Tailwind/DaisyUI</strong> - A full-stack application for tracking expenses compared to a fixed budget</p>
+    </td>
+   <td width="50%" valign="top">
+      <h3 align="center">ROA Agency</h3>
+        <br />
+      <a target="_blank" href="https://agenciaruizoddone.netlify.app/">
+            <img src="https://ibb.co/f4RkfWG" width="100%"  alt="aquarium"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/fedechaves/ROAgency_landing" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://agenciaruizoddone.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML/CSS/JavaScript</strong> - A Website for a local Customs Agency</p>
+    </td> 
+  </tr>
+	
+</table>
+
+
+
+<hr/>
+
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
