@@ -24,7 +24,7 @@
       <h3 align="center">TeamTask App</h3>
         <br />
         <a target="_blank" href="https://github.com/fedechaves/teamtask_MVP">
-            <img src="https://ibb.co/yYsbHzw"/>
+            <img src="https://github.com/fedechaves/teamtask_MVP/blob/acb11fcb7eb227260485a7061c511ebdff479d18/public/images/team-task-gif.gif"/>
         </a>
         <br />
         <p align="center">
@@ -62,7 +62,7 @@
       <h3 align="center">Privagram</h3>
         <br />
         <a target="_blank" href="https://github.com/fedechaves/MVP_Privagram">
-            <img src="https://user-images.githubusercontent.com/99290888/188750992-228bf34f-a0c5-4ccd-9302-0f8e0618f77e.png" alt="notes"/>
+            <img src="https://github.com/fedechaves/MVP_Privagram/blob/a5863059534f7b56a94861c1acbbe83f5c32886f/public/imgs/privagramHome.JPG" alt="notes"/>
         </a>
         <br />
         <p align="center">
@@ -71,7 +71,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
   <a href="https://privagram.onrender.com/" target="_blank">
-    <img src="https://github.com/fedechaves/MVP_Privagram/blob/a5863059534f7b56a94861c1acbbe83f5c32886f/public/imgs/privagramHome.JPG"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
         <p><strong>JavaScript/MongoDB/Node.js/Express/Passport/CSS/Tailwind/DaisyUI</strong> - A full-stack application for tracking expenses compared to a fixed budget</p>
@@ -80,7 +80,7 @@
       <h3 align="center">ROA Agency</h3>
         <br />
       <a target="_blank" href="https://agenciaruizoddone.netlify.app/">
-            <img src="https://ibb.co/f4RkfWG" width="100%"  alt="aquarium"/>
+            <img src="https://github.com/fedechaves/ROAgency_landing/blob/c687045c95d7c7d0cc2153be7324dd7107a9aa0a/assets/images/roaAgency.JPG" width="100%"  alt="aquarium"/>
         </a>
         <br />
         <p align="center">
