@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working as **Freelancer**
 
-- 🌱 I’m currently learning **Vite, nextJS, ML**
+- 🌱 I’m currently learning **nextJS14, ML**
 
 - 👯 I’m looking to collaborate on **nonprofit projects**
 
-- 🤝 I’m looking for help with **networking**
+- 🤝 I’m looking for help with **networking, landing a contractor o full-time job :)**
 
 - 📫 How to reach me **fedechavesf@gmail.com**
 
