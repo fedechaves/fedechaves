@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **nonprofit projects**
 
-- 🤝 I’m looking for help with **networking, landing a contractor o full-time job :)**
+- 🤝 I’m looking for help with **networking, landing a contractor or full-time job :)**
 
 - 📫 How to reach me **fedechavesf@gmail.com**
 
